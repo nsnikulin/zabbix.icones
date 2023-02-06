@@ -2,7 +2,7 @@
 
 *Read this in other languages: [English](README.md), [Português](README.pt.md), [Русский](README.ru.md).*
 
-## Zabbix icons
+## Zabbix icons//*/*/*
 
 Author: Diego Cavalcante\
 E-Mail: diego@suportecavalcante.com.br\

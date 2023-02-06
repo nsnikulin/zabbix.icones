@@ -2,7 +2,7 @@
 
 *Прочитать на других языках: [English](README.md), [Português](README.pt.md), [Русский](README.ru.md).*
 
-## Иконки для Zabbix 123
+## Иконки для Zabbix +++
 
 Автор: Diego Cavalcante\
 E-Mail: diego@suportecavalcante.com.br\
